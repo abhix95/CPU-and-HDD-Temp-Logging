@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # CPU and HDD temperature monitoring system
 
 #### Use case
