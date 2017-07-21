@@ -1,7 +1,0 @@
-theme: jekyll-theme-minimal
-author: Abhishek Shirgokar
-author_email: abhishek.shirgaokar@gmail.com
-comments: True
-title: CPU and HDD temperature logging system
-description: A Linux Standard Base (LSB) Init script that uses "sensors" and "hddtemp" to log indivisual CPU core and hard disk temperatures.
-show_downloads: true
