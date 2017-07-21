@@ -1,4 +1,3 @@
-# CPU and HDD temperature monitoring system
 
 #### Use case
 You  might  run  into  a  situation  where  your  old  laptop  or  your  new  work  machine  starts  running  hotter  even when  you  are  running  no  task  which  is  either CPU  or  I/O  intensive  in  particular.  Maybe  it's  time  to  do  a  clean install  of  your  favourite  linux  distro (the lazy way)  or  deep  dive  and  investigate  what  might be  causing  the overheating  (the time-consuming way).
