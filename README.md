@@ -155,3 +155,5 @@ sudo update-rc.d <name> enable
 
 And voila!
 Your script is ready and should start automatically when you boot into the system. 
+
+{% include disqus_comments.html %}
